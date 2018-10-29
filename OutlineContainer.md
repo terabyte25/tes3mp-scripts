@@ -1,0 +1,4 @@
+- use command to lock and unlock containers
+- assign mpNum for object to get state for lock/unlock
+- send messagebox if locked
+- add to eventHandler if chain for container open
